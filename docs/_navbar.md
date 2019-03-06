@@ -1,2 +1,0 @@
-* [Português](/)
-* [Inglês](/en-US/)

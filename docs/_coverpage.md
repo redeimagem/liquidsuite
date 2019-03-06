@@ -1,2 +1,0 @@
-![](img/inicio.png)
-
